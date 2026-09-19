@@ -16,7 +16,7 @@
 
 Estudiante de **Ingeniería en Software** en la Universidad Autónoma de Baja California (UABC), con base técnica en **Python, Java, C++ y SQL**, y experiencia práctica en desarrollo de aplicaciones **Android** y diseño web con **HTML, CSS, JavaScript y React**.
 
-Combino fundamentos sólidos de programación con experiencia previa en soporte técnico, redes LAN y gestión de infraestructura de TI — una perspectiva integral que une el desarrollo de software con la operación de sistemas. Actualmente exploro **IoT, Docker y desarrollo de videojuegos**, y estoy detrás de [ControlHerbal](https://github.com/Dominatricxx/ControlHerbal), un sistema de monitoreo de plantas con ESP32 e inteligencia artificial.
+Combino fundamentos sólidos de programación con experiencia previa en soporte técnico, redes LAN y gestión de infraestructura de TI — una perspectiva integral que une el desarrollo de software con la operación de sistemas. Actualmente exploro **IoT, Docker y desarrollo de videojuegos**, y estoy detrás de [ControlHerbal](https://github.com/Dominatricxx/Control-Herbal), un sistema de monitoreo de plantas con ESP32 e inteligencia artificial.
 
 Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultados
 
