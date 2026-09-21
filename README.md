@@ -39,13 +39,9 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 ## Proyectos destacados
 
 <div align="center">
-<a href="https://github.com/Dominatricxx/Control-Herbal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominatricxx&repo=ControlHerbal&theme=tokyonight&hide_border=true" />
-</a>
-<a href=!"https://github.com/Dominatricxx/Dominatricxx/blob/main/assets/%C3%8Dcono%20Control%20Herbal.png">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominatricxx&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=true" />
-</a>
-</div>
+<a href="https://github.com/Dominatricxx/ControlHerbal">
+<img src="https://github-readme-stats.vercel.app/api/pin/username=Dominatricxx&repo=ControlHerbal&theme=tokyonight&hide_border=true" /> </a> 
+<a href="#"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominatricxx&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=true" /> </a> </div>
 
 **[Control-Herbal](https://github.com/Dominatricxx/Control-Herbal)** — Sistema IoT de monitoreo de plantas con ESP32: sensores de temperatura, luz y humedad de suelo, cálculo de un índice de riesgo (IRH) en tiempo real, predicción de sequía, y un modelo de IA (TensorFlow → TFLite) entrenado con datos reales del sistema. Arquitectura Kotlin Multiplatform (Android · Wear OS · Desktop) conectada a Firebase Realtime Database.
 `Kotlin` `Python` `TensorFlow` `Arduino` `Firebase`
