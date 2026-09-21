@@ -42,7 +42,7 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 <a href="https://github.com/Dominatricxx/Control-Herbal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominatricxx&repo=ControlHerbal&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
+<a href="https://github.com/Dominatricxx/Dominatricxx/blob/main/assets/%C3%8Dcono%20Control%20Herbal.png">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominatricxx&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=true" />
 </a>
 </div>
