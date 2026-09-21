@@ -12,7 +12,8 @@
 
 ---
 
-## <img src="https://camo.githubusercontent.com/1e298436ceafd347651f700fa540651312936f6808285ba3ac4ebb951ce7bafb/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="28" style="vertical-align:middle"/> Sobre mí
+## <div align="center"> <img src="https://camo.githubusercontent.com/1e298436ceafd347651f700fa540651312936f6808285ba3ac4ebb951ce7bafb/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="28" style="vertical-align:middle"/>Sobre mí<img src="https://camo.githubusercontent.com/1e298436ceafd347651f700fa540651312936f6808285ba3ac4ebb951ce7bafb/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="28" style="vertical-align:middle"/></div>
+
 
 Estudiante de **Ingeniería en Software** en la Universidad Autónoma de Baja California (UABC), con base técnica en **Python, Java, C++ y SQL**, y experiencia práctica en desarrollo de aplicaciones **Android** y diseño web con **HTML, CSS, JavaScript y React**.
 
@@ -38,8 +39,8 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 
 ## Proyectos destacados
 
-<table> <tr> <td width="300px" align="center"> <a href="https://github.com/Dominatricxx/Control-Herbal"> <img src="assets/card-control-herbal.svg" alt="Control-Herbal: sistema IoT de monitoreo de plantas con ESP32 e IA" width="300px"> </a> </td>
-<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMAHUB"> <img src="assets/card-cimahub.svg" alt="CIMAHUB: próximamente" width="300px"> </a> </td> </tr> </table>
+<div align="center"> <table> <tr> <td width="300px" align="center"> <a href="https://github.com/Dominatricxx/Control-Herbal"> <img src="assets/card-control-herbal.svg" alt="Control-Herbal: sistema IoT de monitoreo de plantas con ESP32 e IA" width="300px"> </a> </td>
+<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMAHUB"> <img src="assets/card-cimahub.svg" alt="CIMAHUB: próximamente" width="300px"> </a> </td> </tr> </table> </div>
 
 ---
 
@@ -87,17 +88,5 @@ Prestige Call Center · `Oct. 2021 – Feb. 2022`
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dominatricxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominatricxx&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominatricxx&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center"><sub>Gracias por visitar mi perfil</sub></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA240,50:2E5E45,100:1B3B2F&height=90&section=footer" width="100%"/>
