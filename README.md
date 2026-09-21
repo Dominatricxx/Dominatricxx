@@ -40,7 +40,7 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 ## Proyectos destacados
 
 <div align="center"> <table> <tr> <td width="300px" align="center"> <a href="https://github.com/Dominatricxx/Control-Herbal"> <img src="assets/card-control-herbal.svg" alt="Control-Herbal: sistema IoT de monitoreo de plantas con ESP32 e IA" width="300px"> </a> </td>
-<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMAHUB"> <img src="assets/card-cimahub.svg" alt="CIMAHUB: próximamente" width="300px"> </a> </td> </tr> </table> </div>
+<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMAHUB"> <img src="assets/card-cimahub.svg" alt="CIMAHUB: Simulador de casos clínicos para estudiantes de ciencias de la salud: un nuevo método de aprendizaje." width="300px"> </a> </td> </tr> </table> </div>
 
 ---
 
@@ -88,5 +88,5 @@ Prestige Call Center · `Oct. 2021 – Feb. 2022`
 
 ---
 
-<div align="center"><sub>Gracias por visitar mi perfil</sub></div>
+<div align="center">Gracias por visitar mi perfil :)</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA240,50:2E5E45,100:1B3B2F&height=90&section=footer" width="100%"/>
