@@ -33,8 +33,6 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 
 </div>
 
-> En cuanto me digas qué tecnologías ya dominas vs. cuáles apenas estás explorando, separo esto en dos tablas.
-
 ---
 
 ## Proyectos destacados
