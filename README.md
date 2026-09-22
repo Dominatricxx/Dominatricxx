@@ -39,7 +39,7 @@ Tijuana, Baja California, México · Aprendizaje rápido y orientado a resultado
 ## Proyectos destacados
 
 <div align="center"> <table> <tr> <td width="300px" align="center"> <a href="https://github.com/Dominatricxx/Control-Herbal"> <img src="assets/card-control-herbal.svg" alt="Control-Herbal: sistema IoT de monitoreo de plantas con ESP32 e IA" width="300px"> </a> </td>
-<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMED"> <img src="assets/card-cimahub.svg" alt="CIMED: Simulador de casos clínicos para estudiantes de ciencias de la salud: un nuevo método de aprendizaje." width="300px"> </a> </td> </tr> </table> </div>
+<td width="300px" align="center"> <a href="https://github.com/Dominatricxx/CIMED"> <img src="assets/card-cimed.svg" alt="CIMED: Simulador de casos clínicos para estudiantes de ciencias de la salud: un nuevo método de aprendizaje." width="300px"> </a> </td> </tr> </table> </div>
 
 ---
 
