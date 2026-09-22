@@ -255,7 +255,7 @@
 <text x="60" y="95" font-size="45.8" opacity="0">Bienvenido a mi GitHuA<animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.99000;0.99500;1.00000" values="0;1;0;0"/></text>
 <text x="60" y="95" font-size="46.0" opacity="0">Bienvenido a mi GitHub<animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.99500;1.00000" values="0;1;1"/></text>
 </g>
-    <text x="1140" y="255" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#C9A227" text-anchor="end" opacity="0">cultivando código &amp; plantas — Ingeniería en Software
+    <text x="1140" y="255" font-family="'Fira Code','Courier New',monospace" font-size="25" fill="#C9A227" text-anchor="end" opacity="0">cultivando código &amp; plantas — Ingeniería en Software
       <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.8s" fill="freeze"/>
     </text>
 
